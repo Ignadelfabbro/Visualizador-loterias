@@ -12,8 +12,8 @@ export default function Home() {
   const juegos = [
     {
       nombre: "Quiniela",
-      descripcion: "https://vivitusuerte.com/cabezas",
-      url: "",
+      descripcion: "",
+      url: "https://vivitusuerte.com/cabezas",
       estilo: "bg-blue-50 border-blue-200 text-blue-900", // Azul
       badgeColor: "bg-blue-200 text-blue-800 hover:bg-blue-300",
       mostrarBadge: false,
